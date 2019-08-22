@@ -1,0 +1,167 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0
+}
+
+nav ul {
+    background-color: #ededed;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+nav ul li  {
+    display: inline;
+}
+
+nav ul li a {
+    padding: 10px;
+    display: inline-block;
+    background-color: #ededed;
+    color: #333;
+    text-decoration: none;
+    border-bottom: 3px solid #ededed;
+}
+
+/*:hover qual o estilo a ser aplicado quando passar o mouse sobre o elemento */
+nav ul li a:hover {
+    background-color: #c3c2c2;
+    color: #585858;
+    border-bottom: 3px solid rgb(241, 6, 229);
+}
+
+article, header {
+    margin: 10px;
+    
+
+}
+
+footer p {
+    text-align: center;
+    font-style: italic;
+    color: #00f;
+    clear: both;
+}
+
+img {
+    width: 350px;
+    height: 250px;
+    float: left;
+    margin-right: 10px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+th, td {
+    padding: 10px;
+}
+
+thead tr {
+    border-bottom: solid 3px #f00
+}
+
+tbody tr:hover {
+    background-color: rgb(166, 117, 212);
+}
+
+tfoot {
+    background-color: #585858;
+    color: #c3c2c2;
+    font-weight: bold;
+    font-style: italic;
+}
+#formulario{
+
+    width: 800px;
+    height: auto;
+    margin:  0 auto;
+}
+
+#formulario h1{
+
+text-align: center;
+font-family: arial;
+font-size: 18px;
+color: darkred;
+font-weight: bold;
+}
+#formulario label{
+text-align: left;
+font-family: arial;
+font-size: 16px;
+
+
+}
+
+#formulario input {
+
+width: 100%;
+height: 35px;
+border: 1px gray solid;
+}
+
+#formulario input {
+
+width: 100%;
+height: 35px;
+border: 1px darkred solid;
+margin-top: 10px;
+}
+#formulario select {
+
+width: 100%;
+height: 35px;
+font-family: arial;
+font-size: 16px;
+border: 1px darkred solid;
+}
+
+#formulatio input[type="submit"]{
+
+    background: darkred;
+    color: white;
+}
+#carro{
+
+      width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    
+}
+#conteudo {
+    text-align: center;
+    padding: 10px;
+}
+
+#conteudo{
+    width: 500px;
+    height: 1000px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background: white;
+}
+#carro img{
+
+    height: 350px;
+    width:  450px;
+
+}
+#titulo h1{
+
+    text-align: center;
+}
+
+#atributos{
+    width: 500px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background: white;
+}

@@ -1,0 +1,40 @@
+Programação para a internet
+
+shift+!, aperte tab..
+
+title = titulo da pagina
+
+digite h1 e precione a tecla "tab" 
+
+CTRL+S = salva o documento
+
+h1 = indica conteúido importante, pode variar de h1 até h6
+
+html css js = tecnologia para desenvolver paginas
+
+salvar no lugar onde esta o programa
+
+<img src="nome da imagem e formato" alt="Tecnologias Web: HTML, CSS e JS">
+
+<P> = paragrafo
+
+HTML = estrutura da pagina
+
+CSS = disigner da página
+
+<p style="color: blue"> = coloca cor no paragrafo
+
+
+
+
+
+<!-- Parágrafos do documento --> = permite que o programador realize anotações para se organizar
+
+body { = define o corpo da pagina
+    text-align: center;= permite centralizar
+    font-family: Arial, Helvetica, sans-serif = estilos de fonte
+
+ALT+SHIFT+F = orgamiza a identação 
+
+digite Link+ tab para aparecer <link rel="stylesheet" href=""> 
+

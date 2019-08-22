@@ -1,0 +1,34 @@
+index.html = deve ser nomeado assim para subir no provedor/servidor.  
+
+<html>
+<head>
+   <title>Exemplo</title>
+</head>
+
+<body>
+   <h1>Progra.html</h1>
+   <h2>Aula de Revisão</h2>
+   <ing src="foto.jpg" alt="foto da Turma">                                                  estilos.css      sala.html  
+   <p> Exemplos de código</p>
+   <a href="sala.html">Salas de aulas </a>
+</body>
+</html>
+
+<nave> = sessão de navegação
+
+<ul> lista ordenada
+
+ALT+SHIFT+ para baixo
+
+<header> = se trata de palavras com maior importancia
+
+<article> = artigo da pagina
+
+
+
+<footer> = roda pé
+
+#f00
+
+<table>= tabela
+
